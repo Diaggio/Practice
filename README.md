@@ -1,2 +1,2 @@
 # Practice
-repo for online tutorials
+A repo for code that followed online tutorials 
